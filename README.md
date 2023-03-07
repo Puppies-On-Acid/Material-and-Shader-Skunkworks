@@ -1,3 +1,3 @@
 # Material and Shader Skunkworks
 
- Landscape Master Material
+ Landscape and Cloth Master Materials, so far
